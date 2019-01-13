@@ -1,3 +1,5 @@
+![localhost](https://github.com/edb-c/js-dom-and-events-konami-code-lab-v-000/blob/master/Konami.png)
+
 # Konami Code Lab
 
 ## Objectives
